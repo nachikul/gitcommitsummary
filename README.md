@@ -3,17 +3,17 @@ PULL REQUESTS PER TIME PERIOD
 
 This package contains a code base that can fetch Pull Requests - Open, Closed or WIP based on a specified time period
 
-# PREREQUISITES
+## PREREQUISITES
 
 - Python 3
 - Dependent Modules
 
-# INSTALLING PYTHON MODULES
+## INSTALLING PYTHON MODULES
 
 Use the requirements.txt file: 
 pip install -r requirements.txt
 
-# RUNNING THE APPLICATION
+## RUNNING THE APPLICATION
 
 There are two ways you may run the application:
 
