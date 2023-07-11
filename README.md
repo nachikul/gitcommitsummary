@@ -11,7 +11,8 @@ This package contains a code base that can fetch Pull Requests - Open, Closed or
 ## INSTALLING PYTHON MODULES
 
 Use the requirements.txt file: 
-pip install -r requirements.txt
+
+      pip install -r requirements.txt
 
 ## RUNNING THE APPLICATION
 
