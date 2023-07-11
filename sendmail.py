@@ -15,5 +15,10 @@ def sendmail(message):
     client.send(mail)
 
 def sendmailtoconsole(message):
-    print(message)
+    finalmsg ="""\
+    Subject: Pull Requests Summary
+        
+    """+message
+    print(finalmsg)
+
 
