@@ -1,0 +1,6 @@
+jproperties==2.1.1
+mailtrap==2.0.1
+pandas==2.0.3
+PyGithub==1.59.0
+PyGithub==1.59.0
+streamlit==1.24.1
